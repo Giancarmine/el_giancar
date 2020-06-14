@@ -1,0 +1,3 @@
+Sitemap: https://giancarmine.github.io/el_giancar/sitemap.xml
+User-agent:*
+Disallow:
